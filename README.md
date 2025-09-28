@@ -1,2 +1,3 @@
 # khrisha-demo
 this is my first github repo
+author - khrisha s.
